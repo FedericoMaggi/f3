@@ -1,10 +1,10 @@
 {
   "name": "jsfmt",
-  "version": "1.0.0",
+  "version": "0.1",
   "description": "A simple JS string formatter",
   "main": "index.js",
   "scripts": {
-		"main": "node index.js",
+		"main": "node src index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Federico Maggi",

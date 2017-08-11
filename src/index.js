@@ -5,12 +5,17 @@ let _missingData = '((MISSING DATA))';
 let _invalidDataType = '((INVALID DATA TYPE))';
 let _extraDataStart = '((EXTRA DATA:';
 let _extraDataEnd = '))';
-let _extraData = '((EXTRA DATA! %s=%s))';
+
 /**
  * sprintf
+ * This function uses provided format and variadic
+ * arguments to compose and return a string.
  * 
- * @param {String} format 
- * @return {String} a
+ * @param {String}  format the format to be used.
+ * @param {*}       args a variadic number of arguments 
+ *                    to be used for string composing.
+ * @return {String} the string composed based on provided
+ *                    format and arguments.
  */
 function sprintf(format, ...args) {
   let formatted = _parseFormat(format, args);
