@@ -1,6 +1,6 @@
 {
-  "name": "jsfmt",
-  "version": "0.1",
+  "name": "fmt.js",
+  "version": "0.1.0",
   "description": "A simple JS string formatter",
   "main": "index.js",
   "scripts": {
