@@ -24,7 +24,7 @@ We have plenty of them, use:
 * `%j` for objects;
 * `%a` for arrays.
 
-Is any of these one truly needed? Nay.. Since JS is typeless most of them are just simple string conversions. They get interesting to include objects and array representations in your strings though. Hence keep in mind what format patterns you use and what you pass as a parameter.
+Is any of these one truly needed? Nay... Since JS is typeless and has no typechecking most of them are just simple string conversions. They get interesting when you need to include Objects and Array representations in your strings though. Hence keep in mind what format patterns you use and what you pass as a parameter.
 
 ## Contributing
 You want to contribute to this magnificent project? That's great, file an issue and we can talk about it. :)
