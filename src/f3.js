@@ -113,4 +113,4 @@
       return _invalidToken;
     }
   }
-})(typeof exports === 'undefined'? this['mymodule']={}: exports);
+})(typeof exports === 'undefined'? this['f3']={}: exports);
