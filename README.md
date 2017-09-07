@@ -2,7 +2,7 @@
 
 **F For Format** is a simple, very fast, super scalable, ultra lightweight solution for string formatting in JavaScript.
 
-It features the latest ES6 technologies to provide you a reliable implementation of what is featured in most languages but not JS.
+It features the latest ES6 technologies to provide you a reliable implementation of what is featured in most languages but not in JavaScript.
 
 
 ## How does it work
