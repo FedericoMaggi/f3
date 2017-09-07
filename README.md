@@ -9,7 +9,7 @@ It features the latest ES6 technologies to provide you a reliable implementation
 
 Simple, just include it in your project and use it as:
 
-```
+```js
 f3.sprintf('My amazing string has the number %d and its name is %s', 42, 'Bob');
 ```
 
