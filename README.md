@@ -32,4 +32,5 @@ You want to contribute to this magnificent project? That's great, file an issue 
 ## YEAH, BUT WHY?
 
 Because I **F*****ing hate string concatenation, that's why! <3
+
 The actual reason is that this is a kind of joke-project I always wanted to work on and finally did.
